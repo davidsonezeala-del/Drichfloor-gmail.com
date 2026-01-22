@@ -1,11 +1,11 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  output: 'export',
+  output: "export",
   images: {
     unoptimized: true,
   },
-  basePath: '/Drichfloor-gmail.com',
-  assetPrefix: '/Drichfloor-gmail.com',
+  basePath: "/Drichfloor-gmail.com",
+  assetPrefix: "/Drichfloor-gmail.com",
 };
 
 module.exports = nextConfig;
